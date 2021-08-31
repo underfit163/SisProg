@@ -1,0 +1,6 @@
+C:\Users\163ty\Desktop\SisProgF\AsmDLL\bin\Debug\AsmDLL.exe.config
+C:\Users\163ty\Desktop\SisProgF\AsmDLL\bin\Debug\AsmDLL.exe
+C:\Users\163ty\Desktop\SisProgF\AsmDLL\bin\Debug\AsmDLL.pdb
+C:\Users\163ty\Desktop\SisProgF\AsmDLL\obj\Debug\AsmDLL.exe
+C:\Users\163ty\Desktop\SisProgF\AsmDLL\obj\Debug\AsmDLL.pdb
+C:\Users\163ty\Desktop\SisProgF\AsmDLL\obj\Debug\AsmDLL.csprojAssemblyReference.cache
